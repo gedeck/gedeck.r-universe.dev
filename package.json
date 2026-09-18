@@ -1,7 +1,6 @@
 [
   {
-    "package": "mlba2",
-    "url": "https://github.com/gedeck/mlba",
-    "subdir": "mlba"
+    "package": "mlba",
+    "url": "https://github.com/gedeck/mlba-r"
   }
 ]
